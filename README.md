@@ -16,10 +16,10 @@ A dedicated Customer Support Specialist with 6+ years of experience across multi
 ## 🏋️ Industries I've Supported
 
 - Cloud SaaS
-- Telco & IP-PBX
+- Telco & IP-PBX VOIP
 - Fitness & Wellness
-- Travel & GDS
-- Automotive
+- Global Distribution System (GDS) 
+- Automotive Management System
 
 ---
 
@@ -40,7 +40,7 @@ A dedicated Customer Support Specialist with 6+ years of experience across multi
 
 - 📧 **Email** : *rupert.caldoza@gmail.com* 
 - 📱 **Contact** : *(+63 968-704-4585)* 
-- 💼 **Portfolio** : *https://rupertcaldoza.my.canva.site/* 
+- 💼 **Portfolio** : *https://caldozarupert.github.io/MyPortfolio/* 
 - 🔗 **LinkedIn** : *linkedin.com/in/rupert-c-9983b2214* 
   
 ---
