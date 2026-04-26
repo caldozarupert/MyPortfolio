@@ -1,12 +1,12 @@
 # Hi, I'm Rupert 👋
 
-A dedicated **Technical Support Specialist** based in the Philippines 🇵🇭 with over 6 years of experience delivering B2B technical support across multiple industries.
+A dedicated Customer Support Specialist with 6+ years of experience across multiple industries, including telecommunications and SaaS platforms. Proven ability to resolve complex issues, manage accounts, and deliver exceptional customer satisfaction in fast-paced B2B environments.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔧 Specialized in **Cloud SaaS, Telco, IP-PBX, GDS, Fitness & Automotive** platforms
+- 🔧 Specialized in **Cloud SaaS, Telco, IP-PBX, Global Distribution System (GDS), Fitness & Wellness, Automotive Management System** platforms
 - 🌍 Experienced in supporting **multiple international B2B clients**
 - 🛠️ Comfortable working across diverse tools, platforms, and time zones
 - 📍 Based in the Philippines
